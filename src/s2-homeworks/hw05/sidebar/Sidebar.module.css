@@ -8,15 +8,19 @@
 }
 
 .nav {
+
 }
 
 .nav a {
+    margin-left: 10px;
 }
 
 .nav a:hover {
 }
 
 .nav a.active {
+    color: red;
+
 }
 .close {
 }
